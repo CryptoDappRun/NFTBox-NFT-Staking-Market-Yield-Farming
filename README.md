@@ -3,7 +3,6 @@ Stake-NFT-Box
 https://CryptoDappRun.github.io/Stake-NFT-Box/
 
 <br>
-NFTBox
 NFTBox is a NFT staking project market,you can stake your NFT get reward tokens,or you can create your own NFT Staking Project.
 
 NFT Staking market
@@ -12,11 +11,13 @@ NFT Staking market
 Token contract and staking contract full control by owner.
 
 Support Blockchain
-Binancebnb
-Polygonmatic
-Ropsten
+>Binance
+Polygon
+Cronos
+Candle
 
-<br><br><br><br><br><br>
+
+<br><br><br>
 if you want NFTBox support other Blockchain
 NFTBox will gradually support other blockchains. It is more troublesome to go to the exchange to buy cryptocurrencies. If you need to deploy to the blockchain you need, please send some cryptocurrencies required for contract deployment to the following address, and leave a message, I will deploy it as soon as possible .
 
