@@ -8,7 +8,7 @@ NFTBox is a NFT staking project market,you can stake your NFT get reward tokens,
 
 NFT Staking market
 
-
+<img src="https://github.com/CryptoDappRun/NFTBox-NFT-Staking-Market-Yield-Farming/blob/main/screen.png">
 Token contract and staking contract full control by owner.
 
 Support Blockchain
